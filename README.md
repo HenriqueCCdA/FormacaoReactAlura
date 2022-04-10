@@ -1,3 +1,4 @@
 # Formação React da Alura
 
 1. [Curso de Fundamentos de React: escrevendo com Typescript](https://github.com/HenriqueCCdA/FormacaoReactAlura) Inicio dia 05/04/2022 - Fim dia 10/04/2022
+2. [Curso de React: lidando com arquivos estáticos](https://github.com/HenriqueCCdA/FormacaoReactAlura) Inicio dia 05/04/2022 - Fim dia -/-/2022
